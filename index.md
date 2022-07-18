@@ -6,7 +6,6 @@
 <a href="http://apple.com"><font size="5"><p>Apple</p></font></a>
 
 
-<img src="../documents/stuff/Apple.png" alt="Apple" class="bruh">
 
 
 <style>
