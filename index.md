@@ -10,6 +10,8 @@
 
 
 <style>
+    h1 {text-align: center;
+    }
 .bruh {
     display: block;
   margin-left: auto;
