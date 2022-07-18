@@ -17,7 +17,7 @@
   width: 5%;
 }
 body{
-  background-image:linear-gradient(to top,blue,white);
+  background-color: #faf7f2;
 }
 </style>
 
